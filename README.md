@@ -1,3 +1,3 @@
-# larissamaehara.github.io/funfactsstomatopoda
+# https://larissamaehara.github.io/funfactsstomatopoda/
 
 ## Trabalho realizado usando conhecimentos de HTML, CSS e HTML semântico
